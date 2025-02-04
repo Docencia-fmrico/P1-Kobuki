@@ -1,4 +1,4 @@
-# 2024-P1-Kobuki
+# P1-Kobuki
 
 El objetivo de esta práctica es usar los comandos de ROS 2 en la terminal para examinar el robot Kobuki.
 
